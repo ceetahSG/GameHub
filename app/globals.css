@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dark is the default theme. */
+:root {
+  --c-bg: 15 16 32;        /* #0F1020 */
+  --c-surface: 26 27 51;   /* #1A1B33 */
+  --c-fg: 255 255 255;     /* #FFFFFF */
+  --c-muted: 160 163 189;  /* #A0A3BD */
+  color-scheme: dark;
+}
+
+html.light {
+  --c-bg: 246 246 252;
+  --c-surface: 255 255 255;
+  --c-fg: 20 20 40;
+  --c-muted: 95 98 125;
+  color-scheme: light;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-inter), system-ui, sans-serif;
+  }
+  body {
+    @apply bg-bg text-fg antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-poppins), system-ui, sans-serif;
+  }
+
+  /* Bangla: Hind Siliguri everywhere, 1.7 line height, no tracking, no uppercase. */
+  html[lang='bn'] {
+    font-family: var(--font-hind-siliguri), system-ui, sans-serif;
+  }
+  html[lang='bn'] :where(body, h1, h2, h3, h4, h5, h6, p, span, a, button, li, label, input, div) {
+    font-family: var(--font-hind-siliguri), system-ui, sans-serif;
+    line-height: 1.7;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+}
+
+@layer utilities {
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}

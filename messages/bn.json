@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "GameHub: ফ্রি HTML5 গেম, সাথে সাথেই খেলুন",
+    "description": "ডাউনলোড বা লগইন ছাড়াই ফ্রি ব্রাউজার গেম সাথে সাথে খেলুন।"
+  },
+  "nav": {
+    "brand": "GameHub",
+    "mainNav": "মূল মেনু",
+    "mobileNav": "মোবাইল মেনু",
+    "home": "হোম",
+    "categories": "ক্যাটাগরি",
+    "new": "নতুন",
+    "trending": "ট্রেন্ডিং",
+    "login": "লগইন",
+    "signup": "সাইন আপ",
+    "searchLabel": "গেম খুঁজুন",
+    "searchPlaceholder": "গেম খুঁজুন",
+    "openSearch": "সার্চ খুলুন",
+    "menu": "মেনু",
+    "theme": "হালকা বা গাঢ় থিম বদলান"
+  },
+  "language": {
+    "label": "ভাষা",
+    "en": "EN",
+    "bn": "বাং"
+  },
+  "common": {
+    "playNow": "এখনই খেলুন",
+    "play": "খেলুন",
+    "plays": "{count} বার খেলা হয়েছে",
+    "favourite": "পছন্দের গেমে যোগ করুন",
+    "ad": "বিজ্ঞাপন"
+  },
+  "categories": {
+    "action": "অ্যাকশন",
+    "puzzle": "পাজল",
+    "arcade": "আর্কেড",
+    "sports": "স্পোর্টস",
+    "racing": "রেসিং",
+    "casual": "ক্যাজুয়াল"
+  },
+  "home": {
+    "featured": "বিশেষ গেম",
+    "heroSubtitle": "এই সপ্তাহের সবচেয়ে বেশি খেলা গেমটি খেলুন। ডাউনলোড বা লগইন লাগবে না।",
+    "trendingNow": "ট্রেন্ডিং এখন",
+    "newGames": "নতুন গেম",
+    "topRated": "সেরা রেটিং",
+    "browseByCategory": "ক্যাটাগরি অনুযায়ী দেখুন"
+  },
+  "footer": {
+    "tagline": "ব্রাউজারেই চলে এমন ফ্রি HTML5 গেম।",
+    "colGames": "গেম",
+    "colCompany": "কোম্পানি",
+    "colDevelopers": "ডেভেলপার",
+    "colLegal": "আইনি",
+    "linkNew": "নতুন গেম",
+    "linkTop": "সেরা রেটিং",
+    "linkCategories": "ক্যাটাগরি",
+    "linkAbout": "আমাদের সম্পর্কে",
+    "linkContact": "যোগাযোগ",
+    "linkPublish": "আপনার গেম প্রকাশ করুন",
+    "linkDashboard": "ড্যাশবোর্ড",
+    "linkPrivacy": "গোপনীয়তা",
+    "linkTerms": "শর্তাবলি",
+    "copyright": "© {year} GameHub. সর্বস্বত্ব সংরক্ষিত।"
+  }
+}

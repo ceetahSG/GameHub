@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "GameHub: Free HTML5 games, play instantly",
+    "description": "Play free browser games instantly. No download and no login needed to start."
+  },
+  "nav": {
+    "brand": "GameHub",
+    "mainNav": "Main navigation",
+    "mobileNav": "Mobile navigation",
+    "home": "Home",
+    "categories": "Categories",
+    "new": "New",
+    "trending": "Trending",
+    "login": "Login",
+    "signup": "Sign up",
+    "searchLabel": "Search games",
+    "searchPlaceholder": "Search games",
+    "openSearch": "Open search",
+    "menu": "Menu",
+    "theme": "Switch light or dark theme"
+  },
+  "language": {
+    "label": "Language",
+    "en": "EN",
+    "bn": "বাং"
+  },
+  "common": {
+    "playNow": "Play Now",
+    "play": "Play",
+    "plays": "{count} plays",
+    "favourite": "Add to favourites",
+    "ad": "Advertisement"
+  },
+  "categories": {
+    "action": "Action",
+    "puzzle": "Puzzle",
+    "arcade": "Arcade",
+    "sports": "Sports",
+    "racing": "Racing",
+    "casual": "Casual"
+  },
+  "home": {
+    "featured": "Featured",
+    "heroSubtitle": "Jump into the most-played game this week. No download, no login.",
+    "trendingNow": "Trending Now",
+    "newGames": "New Games",
+    "topRated": "Top Rated",
+    "browseByCategory": "Browse by Category"
+  },
+  "footer": {
+    "tagline": "Free HTML5 games that run right in your browser.",
+    "colGames": "Games",
+    "colCompany": "Company",
+    "colDevelopers": "Developers",
+    "colLegal": "Legal",
+    "linkNew": "New Games",
+    "linkTop": "Top Rated",
+    "linkCategories": "Categories",
+    "linkAbout": "About",
+    "linkContact": "Contact",
+    "linkPublish": "Publish your game",
+    "linkDashboard": "Dashboard",
+    "linkPrivacy": "Privacy",
+    "linkTerms": "Terms",
+    "copyright": "© {year} GameHub. All rights reserved."
+  }
+}
